@@ -99,7 +99,7 @@ namespace WinFormsApp2
 
         private void iconBtn_refesh_Click(object sender, EventArgs e)
         {
-            string info = "Nguyễn Thanh Phúc - 3118410338; Đặng Hoài Nam Quốc Bảo - 3118410022";
+            string info = "Nguyễn Thị Thu Trang - 20187155 - HUST";
             MessageBox.Show(info.Replace(";", "" + System.Environment.NewLine), "THÔNG TIN NHÓM", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
